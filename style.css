@@ -728,8 +728,11 @@ section {
     }
 
     .hero-bg-text {
-        font-size: 60px;
-        letter-spacing: -4px;
+        display: none;
+    }
+    .hero .social-links {
+        justify-content: center;
+        align-items: center;
     }
 
     .about-content {
